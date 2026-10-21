@@ -50,47 +50,10 @@ Public education funding and resource allocation are subject to continuous debat
 ## 📈 Tableau Dashboard
 
 Explore the fully interactive visualization suite on Tableau Public:
-👉 **[View the Dashboard on Tableau Public](https://github.com/natnaelmulatu/massachusetts-education-analysis_with_tableau)** *(Update link to your exact Tableau Public URL if distinct from the repo)*
+👉 **[View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/natnael.mulatu/viz/DataVizualizationforMITEducationProject/Dashboard1)** 
 
 ### Dashboard Features:
 
 * **Statewide Overview:** High-level KPIs tracking average spending, graduation rates, and proficiency trends.
 * **District Comparison Tool:** Multi-metric scatter plots allowing users to benchmark specific districts against state averages.
 * **Expenditure Breakdown:** Visualizing how operational dollars are distributed across instruction, administration, and support services.
-
----
-
-## 🚀 Getting Started & Replication
-
-To run the data processing pipeline locally:
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/natnaelmulatu/massachusetts-education-analysis_with_tableau.git
-cd massachusetts-education-analysis_with_tableau
-
-```
-
-
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. **Explore the notebooks:**
-Open the Jupyter notebooks in `notebooks/` to inspect the data cleaning and transformation logic.
-
----
-
-## ✍️ Author & Contact
-
-**Natnael Mulatu**
-
-*Data Analyst*
-
-* **LinkedIn Article:** [Data-Driven Insights on Education](https://www.linkedin.com/pulse/data-driven-insights-education-analyzing-school-busting-nate-mulatu-hx1pe/)
-* **GitHub:** [@natnaelmulatu](https://www.google.com/search?q=https://github.com/natnaelmulatu)
-
-*Feedback, suggestions, and collaborative discussions are always welcome—feel free to reach out or open an issue!*
