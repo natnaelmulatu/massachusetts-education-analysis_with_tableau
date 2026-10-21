@@ -27,10 +27,10 @@ Public education funding and resource allocation are subject to continuous debat
 ## 📂 Repository Structure
 
 ```text
-├── Data_Dictionary_Massachusetts_schools.pdf                 # Dictionary that explains what each column on the excel project represents
+├── Data_Dictionary_Massachusetts_schools.pdf                 # Dictionary that explains column names of the dataset
 ├── MA_Schools.xlsx                                           # Main dataset used for analysis
 ├── Tableau_Dashboard_Presentation                            # Video explaining the analysis made on the project 
-├──                                                  # Images, charts, and architectural diagrams
+├── Data_Vizualization_for_MIT_Education_Project.twbx         # Dashboard created in Tableau for analysis
 └── README.md                                                 # Project documentation
 
 ```
