@@ -50,7 +50,7 @@ Public education funding and resource allocation are subject to continuous debat
 ## 📈 Tableau Dashboard
 
 Explore the fully interactive visualization suite on Tableau Public:
-👉 **[View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/natnael.mulatu/viz/DataVizualizationforMITEducationProject/Dashboard1)** 
+👉 **[View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/natnael.mulatu/viz/Massachusetts_Education_Project/Dashboard1)** 
 
 ### Dashboard Features:
 
