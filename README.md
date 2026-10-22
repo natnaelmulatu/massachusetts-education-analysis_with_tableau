@@ -30,7 +30,7 @@ Public education funding and resource allocation are subject to continuous debat
 ├── Data_Dictionary_Massachusetts_schools.pdf                 # Dictionary that explains column names of the dataset
 ├── MA_Schools.xlsx                                           # Main dataset used for analysis
 ├── Tableau_Dashboard_Presentation                            # Video explaining the analysis made on the project 
-├── Data_Vizualization_for_MIT_Education_Project.twbx         # Dashboard created in Tableau for analysis
+├── Massachusetts_Education_Project.twbx                      # Dashboard created in Tableau for analysis
 └── README.md                                                 # Project documentation
 
 ```
